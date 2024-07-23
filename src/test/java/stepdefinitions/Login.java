@@ -25,7 +25,7 @@ public class Login {
 	
 	@Given("User open the Application url")
 	public void user_open_the_application_url() {
-		System.out.println("User got navigated to login page");
+		System.out.println("User got navigated to login pag");
 	}
 	
 	/*@When("^User enters email address <string>")
