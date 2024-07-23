@@ -11,7 +11,7 @@ public class Login {
 //	@BeforeStep
 //	public void beforeEachStep()
 //	{
-//		System.out.println("Before every step hook");
+//		System.out.println("Before every step hooks");
 //	}
 //	
 //	@AfterStep
